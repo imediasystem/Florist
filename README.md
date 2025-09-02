@@ -3,8 +3,6 @@
 ## 🔥 Project Name - Florist
 See the live version of [Florist](https://imediasystem.github.io/Florist/)
 
-<a href="https://www.imediasystem.pl" target="_blank" rel="noopener noreferrer">iMedia SysteM</a>
-
 WebSite project for local florist's. It features an attractive design that showcases the company's offerings. HTML, CSS, JavaScript, Bootstrap, LESS, and SASS technologies were used.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
