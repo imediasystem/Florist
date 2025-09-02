@@ -1,9 +1,6 @@
 <img width="1898" height="925" alt="Zrzut ekranu 2025-09-02 103827" src="https://github.com/user-attachments/assets/6bafa3ba-ac85-4a8a-a1ee-1f9cb6fda34d" />
 
 ## 🔥 Project Name - Florist
-
-<a href="https://www.imediasystem.pl" target="_blank">iMedia SysteM</a>
-
 See the live version of [Florist](https://imediasystem.github.io/Florist/)
 
 WebSite project for local florist's. It features an attractive design that showcases the company's offerings. HTML, CSS, JavaScript, Bootstrap, LESS, and SASS technologies were used.
