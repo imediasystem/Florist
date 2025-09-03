@@ -1,4 +1,4 @@
-<img width="1898" height="925" alt="Zrzut ekranu 2025-09-02 103827" src="https://github.com/user-attachments/assets/6bafa3ba-ac85-4a8a-a1ee-1f9cb6fda34d" />
+<img width="1900" height="924" alt="Zrzut ekranu 2025-09-03 084921" src="https://github.com/user-attachments/assets/d9bbd5f4-e03d-477c-b732-c6fed1ad0d17" />
 
 ## 🔥 Project Name - FLORIST
 See the live version of [FLORIST](https://imediasystem.github.io/Florist/) ↗️
