@@ -1,4 +1,4 @@
-[<img width="1894" height="920" alt="Zrzut ekranu 2025-11-29 163214" src="https://github.com/user-attachments/assets/1b38fa1d-6abe-4ce0-82fd-6716a6cc3b5a" />](https://kwiatowamanufaktura.eu/)
+[<img width="1903" height="917" alt="Zrzut ekranu 2025-12-04 151432" src="https://github.com/user-attachments/assets/7ea94f50-1f1f-4099-9ac2-d8160db7337b" />](https://kwiatowamanufaktura.eu/)
 
 ## 🔥 Project Name - FLORIST
 See the live version of [FLORIST](https://kwiatowamanufaktura.eu/) ↗️
