@@ -1,7 +1,8 @@
 [<img width="1903" height="917" alt="Zrzut ekranu 2025-12-04 151432" src="https://github.com/user-attachments/assets/7ea94f50-1f1f-4099-9ac2-d8160db7337b" />](https://kwiatowamanufaktura.eu/)
 
 ## 🔥 Project Name - FLORIST
-See the live version of [FLORIST](https://kwiatowamanufaktura.eu/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwiatowamanufaktura.eu/)
 
 WebSite project for local florist's. It features an attractive design that showcases the company's offerings. HTML, CSS, JavaScript, Bootstrap, LESS, and SASS technologies were used.
 
