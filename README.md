@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwiatowamanufaktura.eu/)
 
-WebSite project for local florist's. It features an attractive design that showcases the company's offerings. HTML, CSS, JavaScript, Bootstrap, LESS, and SASS technologies were used.
+WebSite project for local florist's. It features an attractive design that showcases the company's offerings. HTML5, CSS3, JavaScript and Bootstrap technologies were used.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
